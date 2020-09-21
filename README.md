@@ -1,3 +1,0 @@
-# djangofilter
-# djfilterala
-# djfilterala
